@@ -1,7 +1,7 @@
 ---
 title: title
-meta_title: ''
+meta_title: this is meta title
 description: ''
 image: ''
-draft: true
+draft: false
 ---
