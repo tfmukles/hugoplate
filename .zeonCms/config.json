@@ -6,7 +6,9 @@
   "content": {
     "root": "exampleSite/content"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "exampleSite/config/_default"
+  ],
   "arrangement": [],
   "showCommitModal": false
 }
