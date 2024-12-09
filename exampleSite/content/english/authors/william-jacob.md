@@ -1,5 +1,5 @@
 ---
-title: null
+title: title
 email: williamjacob@email.com
 image: /images/gallery/02.jpg
 description: this is meta description
