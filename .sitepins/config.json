@@ -15,7 +15,7 @@
       "type": "folder",
       "targetPath": "exampleSite/content",
       "groupName": "Blogs",
-      "include": "*.md, *.mdx",
+      "include": "*.md, *.md",
       "exclude": "!index.md"
     }
   ],
