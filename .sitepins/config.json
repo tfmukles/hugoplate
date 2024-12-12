@@ -10,6 +10,14 @@
     "exampleSite/config",
     "assets/js"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content",
+      "groupName": "Blogs",
+      "include": "*.md, *.mdx",
+      "exclude": "!index.md"
+    }
+  ],
   "showCommitModal": false
 }
