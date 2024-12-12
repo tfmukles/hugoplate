@@ -17,6 +17,13 @@
       "groupName": "Blogs",
       "include": "*.md, *.md",
       "exclude": "!index.md"
+    },
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/about",
+      "groupName": "blog-index",
+      "include": "*.md",
+      "exclude": "!index.md"
     }
   ],
   "showCommitModal": false
