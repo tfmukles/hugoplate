@@ -20,12 +20,12 @@ description: >-
   ১০০/৫০০/১০০০/৫০০০/১০০০০/১০০০০০ টাকা ইত্যাদি যার যতটুকু দানের ইচ্ছা, আপনারা
   প্লিজ সহযোগিতার হাত বাড়িয়ে দিন। এছাড়া পোস্টের সাথে সংযুক্ত ছবি/ফ্লায়ারের
   মোবাইল নম্বর গুলিতে টাকা পাঠাবেন না।
-date: "2024-12-24"
+date: '2024-12-24'
 image: /images/ovijatrikmasjid.jpeg
 organizer: avijatrik-jame-masjid-and-dawa-center
 project_end_date:
   enable: true
-  end_date: "2025-01-21T12:00:00"
+  end_date: '2025-01-21T12:00:00'
 donation_goals:
   enable: true
   amount: ৳5,00,000
@@ -33,12 +33,12 @@ donation_goals:
     mobile_banking:
       - type: Bkash
         image: /images/projects/bkash.png
-        number: "01720803305"
+        number: '01720803305'
         reference: Sadaqah Made Easy
         accountType: Personal
       - type: Nagad
         image: /images/projects/nagad.png
-        number: "01720803305"
+        number: '01720803305'
         reference: Sadaqah Made Easy
         accountType: Personal
     bank:
@@ -46,15 +46,17 @@ donation_goals:
       image: /images/projects/bank.png
       details:
         name: Al-Arafa Islami Bank
-        account: "0751120062152"
+        account: '0751120062152'
         accountName: Avijatrik Jame Masjid and Dawa Center
         branch: Dinajpur Branch
         reference: Sadaqah Made Easy
 categories:
   - Mosque
   - Dawah
+  - FASDFAS
 tags:
   - Mosque
   - মসজিদ
+  - FASD
 draft: false
 ---
