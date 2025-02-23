@@ -11,13 +11,7 @@ author: John Doe
 tags:
   - nextjs
   - tailwind
-draft:
-  id: 595a21f0-909d-4f10-adf4-853fb2715039
-  value:
-    label: Draft
-    name: draft
-    type: boolean
-    value: ''
+draft: false
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
