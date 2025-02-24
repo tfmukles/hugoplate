@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: What Users Are Saying About Hugoplate
 description: >-
   Don't just take our word for it - hear from some of our satisfied users! 
@@ -8,7 +8,8 @@ description: >-
 testimonials:
   - name: Marvin McKinney
     designation: Web Designer
-    avatar: /images/avatar-sm.png
+    avatar: >-
+      media/exampleSite/assets/images/premium_photo-1664474619075-644dd191935f.jpeg
     content: >-
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
       molestias, assumenda expedita commodi inventore non itaque molestiae
@@ -36,5 +37,5 @@ testimonials:
       voluptatum dolore, facilis sapiente, repellat veniam.
 _build:
   render: never
-draft: true
+draft: false
 ---
