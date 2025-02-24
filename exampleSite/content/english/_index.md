@@ -2,7 +2,7 @@
 banner:
   title: Title
   content: Content
-  image: /images/gallery/01.jpg
+  image: /images/banner.png
   button:
     enable: true
     label: go to
