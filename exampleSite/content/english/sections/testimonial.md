@@ -36,6 +36,6 @@ testimonials:
       molestias, assumenda expedita commodi inventore non itaque molestiae
       voluptatum dolore, facilis sapiente, repellat veniam.
 _build:
-  render: never
+  render: Never...
 draft: false
 ---
