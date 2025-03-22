@@ -1,6 +1,6 @@
 ---
 title: Hey, I am John Doe!
-meta_title: About
+meta_title: This is meta title
 description: this is meta description
 image: /images/avatar.png
 draft: false
