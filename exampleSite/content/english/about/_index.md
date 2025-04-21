@@ -1,5 +1,5 @@
 ---
-title: 'thdis '
+title: title
 meta_title: meta
 description: 'das '
 image: image.png
