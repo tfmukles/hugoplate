@@ -1,6 +1,6 @@
 ---
-title: ''
-email: ''
+title: This is title.
+email: mukles.themefisher@gmail.com
 image: /images/gallery/01.jpg
 description: ''
 social:
