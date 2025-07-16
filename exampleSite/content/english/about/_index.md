@@ -1,5 +1,5 @@
 ---
-title: title
+title: title fgfdg
 meta_title: meta asdfa sDF
 description: 'das '
 image: image.png
