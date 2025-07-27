@@ -6,9 +6,7 @@
   "content": {
     "root": "exampleSite/content/english"
   },
-  "themeConfig": [
-    ".devcontainer"
-  ],
+  "themeConfig": [],
   "arrangement": [],
   "showCommitModal": false
 }
