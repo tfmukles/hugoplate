@@ -14,11 +14,22 @@
   "showCommitModal": false,
   "templates": [
     {
-      "name": "BlogPost",
-      "label": "Blog Post",
+      "name": "WarningCallout",
+      "label": "WarningCallout",
+      "match": {
+        "start": "{{",
+        "end": "}}"
+      },
       "fields": [
-        { "name": "title", "type": "string", "label": "Title" },
-        { "name": "body", "type": "rich-text", "label": "Body" }
+        {
+          "name": "content",
+          "label": "Content",
+          "type": "string",
+          "required": true,
+          "ui": {
+            "component": "textarea"
+          }
+        }
       ]
     }
   ]
