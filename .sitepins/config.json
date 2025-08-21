@@ -12,14 +12,14 @@
   ],
   "arrangement": [],
   "showCommitModal": false,
-   templates: [
+  "templates": [
     {
-      name: "BlogPost",
-      label: "Blog Post",
-      fields: [
-        { name: "title", type: "string", label: "Title" },
-        { name: "body", type: "rich-text", label: "Body" },
-      ],
-    },
-  ],
+      "name": "BlogPost",
+      "label": "Blog Post",
+      "fields": [
+        { "name": "title", "type": "string", "label": "Title" },
+        { "name": "body", "type": "rich-text", "label": "Body" }
+      ]
+    }
+  ]
 }
