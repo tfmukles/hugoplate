@@ -24,11 +24,7 @@
         {
           "name": "content",
           "label": "Content",
-          "type": "string",
-          "required": true,
-          "ui": {
-            "component": "textarea"
-          }
+          "type": "string"
         }
       ]
     }
