@@ -12,17 +12,24 @@
   ],
   "arrangement": [],
   "showCommitModal": false,
-  "templates": [
+   "templates": [
     {
       "name": "BlogPost",
       "label": "Blog Post",
+      "fields": [
+        { "name": "title", "type": "string", "label": "Title" },
+        { "name": "body", "type": "rich-text", "label": "Body" }
+      ]
+    },
+    {
+      "name": "WarningCallout",
+      "label": "Warning Callout",
       "match": {
         "start": "{{",
         "end": "}}"
       },
       "fields": [
-        { "name": "title", "type": "string", "label": "Title" },
-        { "name": "body", "type": "rich-text", "label": "Body" }
+        { "name": "content", "type": "string", "label": "Content" }
       ]
     }
   ]
